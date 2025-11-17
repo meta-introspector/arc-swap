@@ -3,3 +3,4 @@ core
 */target
 **/*.rs.bk
 tags
+process-repo.log
